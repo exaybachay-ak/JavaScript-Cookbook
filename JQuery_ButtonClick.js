@@ -1,4 +1,4 @@
-var button = $('#buttonID')
+var button = $('#buttonID');
 if(button){
   button.trigger('click');
 }
